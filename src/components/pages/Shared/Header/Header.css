@@ -1,0 +1,17 @@
+.banner{
+    background: url('../../../../assets/banner.jpg') ;
+    background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   height: 550px;
+    
+}
+.banner-text{
+    font-size: 120px;
+    color: #ffa557;
+    text-shadow: 2px 2px  #000;
+}
+.banner-text2{
+    font-size: 70px;
+    
+}
